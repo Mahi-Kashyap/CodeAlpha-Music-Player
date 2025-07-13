@@ -1,1 +1,1 @@
-# CodeAlpha-Music-Player
+Music-Player
